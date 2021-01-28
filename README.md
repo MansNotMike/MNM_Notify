@@ -11,21 +11,21 @@ Drop folder MNM_Notify in your resources folder and ensure in server.cfg.
 There are events you can trigger when you are inside a marker.
 <b>Show Notification</b>
 
-  -- CLIENT SIDE
+  <i>-- CLIENT SIDE
   TriggerEvent('mnm_notify_client:showNotification', icon, title, info, desc, true)
   
   -- SERVER SIDE
-  TriggerClientEvent('mnm_notify_client:showNotification', source, icon, title, info, desc, true)
+  TriggerClientEvent('mnm_notify_client:showNotification', source, icon, title, info, desc, true)</i>
 
 <b>Remove Notification</b>
 
-  -- CLIENT SIDE
+  <i>-- CLIENT SIDE
   TriggerEvent('mnm_notify_client:removeNotification', false)
   
   -- SERVER SIDE
-  TriggerClientEvent('mnm_notify_client:removeNotification', source, false)
+  TriggerClientEvent('mnm_notify_client:removeNotification', source, false)</i>
   
-<i>Example of how I use it inside a marker</i>
+<i>Example of how I use it inside a marker</i><br>
 <b>--This is running at 0.03 - 0.04 inside the marker</b>
 
 ```lua
