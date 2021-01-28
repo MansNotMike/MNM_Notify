@@ -1,7 +1,7 @@
 # MNM_Notify
 
 <b>Info</b><br>
-MNM Notify is a replacement for any 3D Text or notifications when inside a marker.
+MNM Notify is a very simple replacement for any 3D Text or notifications when inside a marker.
 Feel free to edit / modify this. Be kind and provide some credits.
 This is my first release so don't be a dick :)
 
