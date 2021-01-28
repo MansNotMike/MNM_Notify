@@ -5,11 +5,11 @@ MNM Notify is a very simple replacement for any 3D Text or notifications when in
 Feel free to edit / modify this. Be kind and provide some credits.
 This is my first release so don't be a dick :)
 
-*You can find me on:*
-**Twitch** www.twitch.tv/mansnotmike
-**Instagram** https://www.instagram.com/mansnotmike
-**Twitter** https://twitter.com/mans_mike
-**Discord** http://discord.gg/ujgNbqSugR
+*You can find me on:*<br>
+**Twitch** www.twitch.tv/mansnotmike<br>
+**Instagram** https://www.instagram.com/mansnotmike<br>
+**Twitter** https://twitter.com/mans_mike<br>
+**Discord** http://discord.gg/ujgNbqSugR<br>
 
 <b>Usage</b><br>
 Drop folder MNM_Notify in your resources folder and ensure in server.cfg.
