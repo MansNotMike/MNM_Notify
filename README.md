@@ -1,9 +1,15 @@
 # MNM_Notify
 
-<b>Info</b><br>
+**Info**<br>
 MNM Notify is a very simple replacement for any 3D Text or notifications when inside a marker.
 Feel free to edit / modify this. Be kind and provide some credits.
 This is my first release so don't be a dick :)
+
+*You can find me on:*
+**Twitch** www.twitch.tv/mansnotmike
+**Instagram** https://www.instagram.com/mansnotmike
+**Twitter** https://twitter.com/mans_mike
+**Discord** http://discord.gg/ujgNbqSugR
 
 <b>Usage</b><br>
 Drop folder MNM_Notify in your resources folder and ensure in server.cfg.
