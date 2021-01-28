@@ -27,6 +27,7 @@ There are events you can trigger when you are inside a marker.
   
 <i>Example of how I use it inside a marker</i>
 
+```lua
 local showing = false
 CreateThread(function()
 	while true do
@@ -58,5 +59,6 @@ CreateThread(function()
 	Wait(sleep)
 	end
 end)
+``` 
 
 
