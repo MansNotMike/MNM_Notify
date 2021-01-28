@@ -1,11 +1,11 @@
 # MNM_Notify
 
-<b>Info</b>
+<b>Info</b><br>
 MNM Notify is a replacement for any 3D Text or notifications when inside a marker.
 Feel free to edit / modify this. Be kind and provide some credits.
 This is my first release so don't be a dick :)
 
-<b>Usage</b>
+<b>Usage</b><br>
 Drop folder MNM_Notify in your resources folder and ensure in server.cfg.
 
 There are events you can trigger when you are inside a marker.
@@ -26,6 +26,7 @@ There are events you can trigger when you are inside a marker.
   TriggerClientEvent('mnm_notify_client:removeNotification', source, false)
   
 <i>Example of how I use it inside a marker</i>
+<b>--This is running at 0.03 - 0.04 inside the marker</b>
 
 ```lua
 local showing = false
