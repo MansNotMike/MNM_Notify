@@ -25,7 +25,7 @@ There are events you can trigger when you are inside a marker.
   -- SERVER SIDE
   TriggerClientEvent('mnm_notify_client:removeNotification', source, false)</i>
   
-<i>Example of how I use it inside a marker</i><br>
+Example of how I use it inside a marker<br>
 <b>--This is running at 0.03 - 0.04 inside the marker</b>
 
 ```lua
